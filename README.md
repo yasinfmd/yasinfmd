@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bites**
 
-- 🌱 I’m currently learning **Flutter,Docker , Aws**
+- 🌱 I’m currently learning **Flutter , Aws**
 
 - 📝 I regularly write articles on [https://yasinefemdalkilic.medium.com/](https://yasinefemdalkilic.medium.com/)
 
