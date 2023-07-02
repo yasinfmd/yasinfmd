@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinfmd" alt="yasinfmd" /></a> </p>
 
-- 🔭 I’m currently working on **Bites**
+- 🔭 I’m currently working on **Ericsson**
 
 - 🌱 I’m currently learning **Flutter , Aws**
 
 - 📝 I regularly write articles on [https://yasinefemdalkilic.medium.com/](https://yasinefemdalkilic.medium.com/)
 
-- 💬 Ask me about **React,Vue,Node**
+- 💬 Ask me about **React,Vue,Node, Angular , React Native , Flutter , Electron**
 
 - 📫 How to reach me **yefem.dalkilic@gmail.com**
 
