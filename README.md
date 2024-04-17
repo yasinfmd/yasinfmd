@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/yasindlklc"><img src="https://api.daily.dev/devcards/v2/RsNBWg1kIP3EJto4G6xL5.png?r=y23&type=default" width="356" alt="Yasin Dalkılıç's Dev Card"/></a>
 <p align='center'><img align="center" width='250' height='250' src="https://raw.githubusercontent.com/yasinfmd/yasinfmd/main/yasin.jpeg" alt="yasinfmd" /></p>
 
 <h1 align="center">Hi 👋, I'm Yasin</h1>
@@ -58,3 +57,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinfmd&show_icons=true&locale=en" alt="yasinfmd" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinfmd&" alt="yasinfmd" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinfmd&show_icons=true&locale=en&layout=compact" alt="yasinfmd" /></p>
+
+<a href="https://app.daily.dev/yasindlklc"><img src="https://api.daily.dev/devcards/v2/RsNBWg1kIP3EJto4G6xL5.png?r=y23&type=default" width="356" alt="Yasin Dalkılıç's Dev Card"/></a>
+
