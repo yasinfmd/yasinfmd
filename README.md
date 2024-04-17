@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/yasindlklc"><img src="https://api.daily.dev/devcards/v2/RsNBWg1kIP3EJto4G6xL5.png?r=y23&type=default" width="356" alt="Yasin Dalkılıç's Dev Card"/></a>
 <p align='center'><img align="center" width='250' height='250' src="https://raw.githubusercontent.com/yasinfmd/yasinfmd/main/yasin.jpeg" alt="yasinfmd" /></p>
 
 <h1 align="center">Hi 👋, I'm Yasin</h1>
