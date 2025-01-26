@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinfmd" alt="yasinfmd" /></a> </p>
 
-- 🔭 I’m currently working on **OBSS**
+- 🔭 I’m currently working on **SabancıDx**
 
 - 🌱 I’m currently learning **Java,SpringBoot , Aws**
 
