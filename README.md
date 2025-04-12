@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinfmd" alt="yasinfmd" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://avatars.githubusercontent.com/u/39165806?v=4)"><img src="https://avatars.githubusercontent.com/u/39165806?v=4" alt="yasinfmd" /></a> </p>
 
 - 🔭 I’m currently working on **SabancıDx**
 
